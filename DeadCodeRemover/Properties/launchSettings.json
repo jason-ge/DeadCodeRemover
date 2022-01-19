@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "DeadCodeRemover": {
+      "commandName": "Project",
+      "commandLineArgs": "-s C:\\Users\\wnms2\\source\\repos\\ClassLibrary4Roslyn\\ClassLibrary4Roslyn.sln -p C:\\Users\\wnms2\\source\\repos\\ClassLibrary4Roslyn\\ClassLibrary4Roslyn\\ClassLibrary4Roslyn.csproj"
+    }
+  }
+}
